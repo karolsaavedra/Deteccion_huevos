@@ -32,4 +32,5 @@ La imagen se envía al servidor de AWS, donde el modelo analiza la imagen y dete
 Integrantes 
 
 Edson Julián Díaz Pinilla
+
 Karol Stefany Saavedra Suárez
